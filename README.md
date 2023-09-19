@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ohoud</h1>
 <h3 align="center">A student at IAU from Saudi Arabia</h3>
 
-- 🔭 I’m currently working on make my own website to introduce myself professionally
+- 🔭 I’m currently working on make my own website to introduce myself professionally.
 
-- 👯 I’m looking to collaborate on More projects in AI fields
+- 👯 I’m looking to collaborate on More projects in AI fields.
 
-- 📫 How to reach me ohoudsaleh@gmail.com
+- 📫 How to reach me ohoudsaleh@gmail.com .
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
