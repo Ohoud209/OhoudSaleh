@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ohoud</h1>
-<h3 align="center">A student at IAU from Saudi</h3>
+<h3 align="center">A student at IAU from Saudi Arabia</h3>
 
 - 🔭 I’m currently working on make my own website to introduce myself professionally
 
